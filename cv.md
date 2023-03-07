@@ -20,7 +20,7 @@ let isPowerOfTwo = (n) => n === 0 ? false : n === 1 ? true : n%2 !== 0 ? false :
 ```
 
 ## Projects  
-- [rsschool-cv](https://github.com/Elelolava/rsschool-cv/)  
+- [rsschool-cv](https://github.com/Elelolava/rsschool-cv/blob/gh-pages/cv.md)  
 
 ## Courses  
 * [RS School](https://rs.school/) course "Java Script/Front-end" (in progress)  
